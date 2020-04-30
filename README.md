@@ -1,7 +1,6 @@
 # Small guide to Flexbox by #BlondieCode
 ![flexbox](https://raw.githubusercontent.com/droganaida/flexbox-guide/master/a-slide.png)
 ![flexbox guide blondiecode](https://raw.githubusercontent.com/droganaida/flexbox-guide/master/b-slide.png)
-![flexbox guide blondiecode](https://raw.githubusercontent.com/droganaida/flexbox-guide/master/b-slide.png)
 ![flexbox guide blondiecode](https://raw.githubusercontent.com/droganaida/flexbox-guide/master/f-slide.png)
 ![flexbox guide blondiecode](https://raw.githubusercontent.com/droganaida/flexbox-guide/master/g-slide.png)
 ![flexbox guide blondiecode](https://raw.githubusercontent.com/droganaida/flexbox-guide/master/i-slide.png)
